@@ -1,0 +1,8 @@
+customer_id,age,gender,monthly_bill,tenure,contract_type,churn
+C001,25,M,50,12,Monthly,No
+C002,35,F,80,24,Yearly,No
+C003,40,M,100,6,Monthly,Yes
+C004,29,F,60,18,Yearly,No
+C005,50,M,120,36,Yearly,No
+C006,23,F,40,3,Monthly,Yes
+C007,31,M,70,12,Monthly,No
